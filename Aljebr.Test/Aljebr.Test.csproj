@@ -58,6 +58,7 @@
     <Compile Include="Union3Tests.cs" />
     <Compile Include="Union4Tests.cs" />
     <Compile Include="Union5Tests.cs" />
+    <Compile Include="UnitTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Aljebr\Aljebr.csproj">
