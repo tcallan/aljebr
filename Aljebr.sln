@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aljebr", "Aljebr\Aljebr.csproj", "{74F66028-9652-4457-BA8F-A2E62FE93441}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aljebr.Test", "Aljebr.Test\Aljebr.Test.csproj", "{5B3AADA0-6AFC-45CA-83EE-89E4921A636E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74F66028-9652-4457-BA8F-A2E62FE93441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F66028-9652-4457-BA8F-A2E62FE93441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F66028-9652-4457-BA8F-A2E62FE93441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F66028-9652-4457-BA8F-A2E62FE93441}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B3AADA0-6AFC-45CA-83EE-89E4921A636E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B3AADA0-6AFC-45CA-83EE-89E4921A636E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B3AADA0-6AFC-45CA-83EE-89E4921A636E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B3AADA0-6AFC-45CA-83EE-89E4921A636E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
